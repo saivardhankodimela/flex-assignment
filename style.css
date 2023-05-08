@@ -1,0 +1,18 @@
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+    flex-direction: row;    
+}
+
+.box{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+}
+.image{
+    border:1px dotted red;
+    padding: 30px;
+}
+
+
